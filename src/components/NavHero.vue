@@ -43,7 +43,7 @@ export default {
           <div class="navbar-brand">
             <a class="navbar-item">
               <img
-                src="../assets/logo/brand_logo.png"
+                src="../assets/all-assets-v1/logo/brand_logo.png"
                 alt="Logo"
               />
               <strong>Savannah Tales </strong>
@@ -61,7 +61,11 @@ export default {
               <span></span>
             </span>
           </div>
-          <div id="navbarMenuHeroB" class="navbar-menu" :class="{'is-active': isActive}">
+          <div
+            id="navbarMenuHeroB"
+            class="navbar-menu"
+            :class="{ 'is-active': isActive }"
+          >
             <div class="navbar-end">
               <div class="navbar-item">
                 <div class="buttons">
@@ -87,7 +91,8 @@ export default {
 
         <div class="block">
           <p class="subtitle">
-            A sacred place to read, write and deepen <br /> your understanding of the Savannah
+            A sacred place to read, write and deepen <br />
+            your understanding of the Savannah
           </p>
         </div>
 
@@ -96,9 +101,7 @@ export default {
           style="width: 40%; margin-left: 0"
           @submit.prevent="submitEmail"
         >
-        <div class="block">
-          skldfjskldfj 
-        </div>
+          <div class="block">skldfjskldfj</div>
           <div class="field">
             <div class="control">
               <input
