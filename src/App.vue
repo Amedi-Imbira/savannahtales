@@ -10,5 +10,4 @@ export default {
 
 <template>
   <HomeView />
-  sdfglk;j klsjhdf
 </template>

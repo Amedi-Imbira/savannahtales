@@ -44,7 +44,7 @@ export default {
             <a class="navbar-item">
               <img
                 src="../assets/logo/brand_logo.png"
-                alt="Logo"
+                alt="Brand Logo"
               />
               <strong>Savannah Tales </strong>
               <span class="tag is-danger ml-2"> Coming soon</span>
@@ -61,6 +61,7 @@ export default {
               <span></span>
             </span>
           </div>
+
           <div id="navbarMenuHeroB" class="navbar-menu" :class="{'is-active': isActive}">
             <div class="navbar-end">
               <div class="navbar-item">
@@ -96,10 +97,8 @@ export default {
           style="width: 40%; margin-left: 0"
           @submit.prevent="submitEmail"
         >
-        <div class="block">
-          skldfjskldfj 
-        </div>
           <div class="field">
+            <label class="label">Join the waitlist for Savannah Tales</label>
             <div class="control">
               <input
                 v-model="email"

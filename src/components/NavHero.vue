@@ -101,8 +101,9 @@ export default {
           style="width: 40%; margin-left: 0"
           @submit.prevent="submitEmail"
         >
-          <div class="block">skldfjskldfj</div>
+          
           <div class="field">
+            <label class="label">Waitlist</label>
             <div class="control">
               <input
                 v-model="email"
