@@ -66,7 +66,7 @@ export default {
             <div class="navbar-end">
               <div class="navbar-item">
                 <div class="buttons">
-                  <a class="navbar-item is-primary">
+                  <a href="https://www.linkedin.com/company/savannahtales/" class="navbar-item is-primary">
                     <font-awesome-icon icon="fa-brands fa-linkedin" /> LinkedIn
                   </a>
                   <a  href="https://x.com/SavannahTalesHQ" class="navbar-item">
