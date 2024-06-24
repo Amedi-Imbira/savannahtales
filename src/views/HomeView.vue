@@ -69,7 +69,7 @@ export default {
                   <a class="navbar-item is-primary">
                     <font-awesome-icon icon="fa-brands fa-linkedin" /> LinkedIn
                   </a>
-                  <a class="navbar-item">
+                  <a  href="https://x.com/SavannahTalesHQ" class="navbar-item">
                     <font-awesome-icon icon="fa-brands fa-twitter" /> Twitter</a
                   >
                 </div>
