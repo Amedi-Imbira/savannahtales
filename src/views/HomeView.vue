@@ -66,11 +66,11 @@ export default {
             <div class="navbar-end">
               <div class="navbar-item">
                 <div class="buttons">
-                  <a href="https://www.linkedin.com/company/savannahtales/" class="navbar-item is-primary">
-                    <font-awesome-icon icon="fa-brands fa-linkedin" /> LinkedIn
+                  <a href="https://www.linkedin.com/company/savannahtales/" class="navbar-item" style="color: white;">
+                    <font-awesome-icon icon="fa-brands fa-linkedin" /> <span class="pl-1"> LinkedIn</span>
                   </a>
-                  <a  href="https://x.com/SavannahTalesHQ" class="navbar-item">
-                    <font-awesome-icon icon="fa-brands fa-twitter" /> Twitter</a
+                  <a  href="https://x.com/SavannahTalesHQ" class="navbar-item" style="color: white;">
+                    <font-awesome-icon icon="fa-brands fa-twitter" /><span class="pl-1">Twitter</span></a
                   >
                 </div>
               </div>

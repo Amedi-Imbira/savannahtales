@@ -43,7 +43,7 @@
             the ancient Greek and the western culture.
           </p>
           <p>
-            We want to grow Savannah members (council of elders) who align with
+            We want to grow Savannah members who align with
             our mission. Because our mission is to protect and spread the
             Savannah culture, we cherish and promote valuable stories that are
             deeply ingrained in the Savannah.
