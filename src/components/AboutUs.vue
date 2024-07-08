@@ -16,7 +16,7 @@
           <p>
             In the not-so-distant past, elders of the Savannah were highly
             respected figures. Their word held immense respect, and their wisdom
-            guided members of the clan and community. What defined their divine
+            could age like fine wine. What defined their divine
             wisdom was their age,and the experience they accumulated over the
             years.
           </p>
